@@ -13,7 +13,7 @@ export default function Card({ data, index }) {
   const [, dropRef] = useDrop({
     accept: 'CARD',
     hover(item, monitor) {
-      console.log(item.index, index)
+
     }
   })
   dragRef(dropRef(ref));
