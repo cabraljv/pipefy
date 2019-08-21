@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ee42082097a106ec6dcf2319713a88bb",
+    "revision": "f033be42b7d7d9bd3600c2f63d1ee54d",
     "url": "/pipefy/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pipefy/static/js/2.b786e5e2.chunk.js"
   },
   {
-    "revision": "f393bc4da93fde24ec68",
-    "url": "/pipefy/static/js/main.c44c6dc7.chunk.js"
+    "revision": "c4cf244250531c1a0c77",
+    "url": "/pipefy/static/js/main.4645df14.chunk.js"
   },
   {
     "revision": "1bf5157cbc8a4126ee40",
