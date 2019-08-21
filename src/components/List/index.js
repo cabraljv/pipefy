@@ -20,7 +20,7 @@ export default function List({ data, index: listIndex }) {
         {data.cards.map((card, index) => (
           <Card
             key={card.id}
-            listIndex={index}
+            listIndex={listIndex}
             index={index}
             data={card}
           />
