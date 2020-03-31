@@ -4,6 +4,6 @@ import { Container } from './styles';
 
 export default function Header() {
   return (
-    <Container><h1>Rocketfy</h1></Container>
+    <Container><h1>Pipefy Clone</h1></Container>
   );
 }
