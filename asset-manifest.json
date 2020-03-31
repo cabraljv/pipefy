@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/pipefy/static/js/main.4645df14.chunk.js",
-    "main.js.map": "/pipefy/static/js/main.4645df14.chunk.js.map",
+    "main.js": "/pipefy/static/js/main.63cbb8b7.chunk.js",
+    "main.js.map": "/pipefy/static/js/main.63cbb8b7.chunk.js.map",
     "runtime~main.js": "/pipefy/static/js/runtime~main.16f8e946.js",
     "runtime~main.js.map": "/pipefy/static/js/runtime~main.16f8e946.js.map",
-    "static/js/2.b786e5e2.chunk.js": "/pipefy/static/js/2.b786e5e2.chunk.js",
-    "static/js/2.b786e5e2.chunk.js.map": "/pipefy/static/js/2.b786e5e2.chunk.js.map",
+    "static/js/2.52f81e48.chunk.js": "/pipefy/static/js/2.52f81e48.chunk.js",
+    "static/js/2.52f81e48.chunk.js.map": "/pipefy/static/js/2.52f81e48.chunk.js.map",
     "index.html": "/pipefy/index.html",
-    "precache-manifest.5fc6306ede0c41019877d849e6cf0f37.js": "/pipefy/precache-manifest.5fc6306ede0c41019877d849e6cf0f37.js",
+    "precache-manifest.0e552e04062e6b55c7b2ef30eaee3f71.js": "/pipefy/precache-manifest.0e552e04062e6b55c7b2ef30eaee3f71.js",
     "service-worker.js": "/pipefy/service-worker.js"
   }
 }
